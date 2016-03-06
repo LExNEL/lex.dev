@@ -70,7 +70,7 @@ class MainController extends Controller
      */
     public function edit($id)
     {
-        //
+        echo $id;
     }
 
     /**
